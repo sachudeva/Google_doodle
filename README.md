@@ -20,5 +20,5 @@ A deep learning model to classify Google Doodle drawings using a U-Net-inspired 
 ## 🛠️ Installation
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/yourusername/google-doodle-classifier.git](https://github.com/sachudeva/Google_doodle)
+   git clone [https://github.com/sachudeva/Google_doodle.git](https://github.com/sachudeva/Google_doodle)
    cd google-doodle-classifier
